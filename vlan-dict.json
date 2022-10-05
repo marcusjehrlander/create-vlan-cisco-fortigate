@@ -1,12 +1,12 @@
 [
     {
-        "sp1-core1":{
+        "cisco-catalyst":{
             "device_type": "cisco_ios",
             "ip": "cisco-catalyst.domain.com"
         },
-        "sp1-fw1": {
+        "fortinet-fortigate": {
             "device_type": "fortinet",
-            "ip": "fortigate.domain.com"
+            "ip": "fortinet-fortigate.domain.com"
         }
     }
 ]
