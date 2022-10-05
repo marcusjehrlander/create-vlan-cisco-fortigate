@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-# Moduler
+# Modules
 from unittest import result
 import netmiko
 import signal

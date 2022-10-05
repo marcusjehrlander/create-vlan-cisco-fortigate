@@ -1,6 +1,3 @@
-# Funktion för loginsnurra med getpass...och lite annat
-
-# Moduler
 from getpass import getpass
 import ipaddress
 
